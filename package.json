@@ -4,7 +4,7 @@
     "description": "Generate ASS subtitles with rounded background boxes",
     "main": "index.js",
     "bin": {
-        "rounded-ass": "./bin/cli.js"
+        "rounded-ass": "bin/cli.js"
     },
     "scripts": {},
     "dependencies": {
@@ -24,7 +24,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/montagao/rounded-ass.git"
+        "url": "git+https://github.com/montagao/rounded-ass.git"
     },
     "author": "montagao",
     "license": "MIT"
