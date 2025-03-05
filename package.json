@@ -11,7 +11,8 @@
         "ass-measure": "latest",
         "commander": "^11",
         "fs-extra": "^11.2.0",
-        "iconv-lite": "^0.6.3"
+        "iconv-lite": "^0.6.3",
+        "subtitle": "^4.2.2-alpha.0"
     },
     "keywords": [
         "libass",
