@@ -1,0 +1,30 @@
+{
+    "name": "rounded-ass",
+    "version": "1.0.0",
+    "description": "Generate ASS subtitles with rounded background boxes",
+    "main": "index.js",
+    "bin": {
+        "rounded-ass": "./bin/cli.js"
+    },
+    "scripts": {},
+    "dependencies": {
+        "ass-measure": "latest",
+        "commander": "^11",
+        "fs-extra": "^11.2.0",
+        "iconv-lite": "^0.6.3"
+    },
+    "keywords": [
+        "libass",
+        "subtitles",
+        "ass",
+        "cli",
+        "srt",
+        "rounded-background"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/montagao/rounded-ass.git"
+    },
+    "author": "montagao",
+    "license": "MIT"
+}
