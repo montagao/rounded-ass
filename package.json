@@ -1,6 +1,6 @@
 {
     "name": "rounded-ass",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Generate ASS subtitles with rounded background boxes",
     "main": "index.js",
     "bin": {
